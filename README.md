@@ -7,5 +7,5 @@ The tools provided here focus on three fundamental pillars of kinetic investigat
 - **Linear and non-linear fitting data:** More than simple lines or curves, the scripts provided here were constructed using robust statistical methods to find the order of chemical reactions and rate constants ($k$).
 - **Simulations of the mechanism of chemical reactions:** Computational models to investigate how elementary reactions steps contribute to the macroscopic and global behavior of a process. 
 
-**License**
+**License:**
 All scripts posted here are available for free under the **MIT License**. You are free to use, modify, and distribute them for academic and research purposes.
